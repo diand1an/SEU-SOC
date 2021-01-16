@@ -27,17 +27,4 @@
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="test_label.txt">
-      <Filter>源文件</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="test_rom.coe">
-      <Filter>源文件</Filter>
-    </None>
-    <None Include="test_link.coe">
-      <Filter>源文件</Filter>
-    </None>
-  </ItemGroup>
 </Project>

@@ -1,0 +1,10 @@
+delay 0
+label0 2
+label1 6
+label2 10
+label3 29
+label4 33
+label5 66
+label6 50
+label7 52
+main 22

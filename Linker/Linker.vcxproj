@@ -121,13 +121,6 @@
   <ItemGroup>
     <ClInclude Include="coe.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="test_label.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="test_link.coe" />
-    <None Include="test_rom.coe" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
